@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар 4\Sem4\Домашнее задание\Задача 25\bin\HPD\Debug\net6.0\Задача 25.exe
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар 4\Sem4\Домашнее задание\Задача 25\bin\HPD\Debug\net6.0\Задача 25.deps.json
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар 4\Sem4\Домашнее задание\Задача 25\bin\HPD\Debug\net6.0\Задача 25.runtimeconfig.json
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар 4\Sem4\Домашнее задание\Задача 25\bin\HPD\Debug\net6.0\Задача 25.dll
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар 4\Sem4\Домашнее задание\Задача 25\bin\HPD\Debug\net6.0\Задача 25.pdb
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар 4\Sem4\Домашнее задание\Задача 25\obj\HPD\Debug\net6.0\Задача 25.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар 4\Sem4\Домашнее задание\Задача 25\obj\HPD\Debug\net6.0\Задача 25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар 4\Sem4\Домашнее задание\Задача 25\obj\HPD\Debug\net6.0\Задача 25.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар 4\Sem4\Домашнее задание\Задача 25\obj\HPD\Debug\net6.0\Задача 25.AssemblyInfo.cs
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар 4\Sem4\Домашнее задание\Задача 25\obj\HPD\Debug\net6.0\Задача 25.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар 4\Sem4\Домашнее задание\Задача 25\obj\HPD\Debug\net6.0\Задача 25.dll
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар 4\Sem4\Домашнее задание\Задача 25\obj\HPD\Debug\net6.0\refint\Задача 25.dll
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар 4\Sem4\Домашнее задание\Задача 25\obj\HPD\Debug\net6.0\Задача 25.pdb
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар 4\Sem4\Домашнее задание\Задача 25\obj\HPD\Debug\net6.0\Задача 25.genruntimeconfig.cache
+C:\Users\admin\Desktop\Обучение)))))))\3 Знакомство с языками программирования\семинар 4\Sem4\Домашнее задание\Задача 25\obj\HPD\Debug\net6.0\ref\Задача 25.dll
